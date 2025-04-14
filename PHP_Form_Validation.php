@@ -33,7 +33,7 @@
             .gender-label {
                 font-weight: bold;
             }
-            input[typoe="radio"] {
+            input[type="radio"] {
                 margin: 10px;
             }
             input[type="submit"] {
