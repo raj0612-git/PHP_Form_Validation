@@ -11,7 +11,7 @@
             }
             body {
                 font-family: Arial, sans-serif;
-                background-color: #f2f2f2;
+                background-color: #ccc;
                 margin: 0;
                 padding: 20px;
             }
@@ -21,7 +21,6 @@
                 border-radius: 5px;
                 max-width: 400px;
                 margin: auto;
-                /* box-shadow: 0px 0px 10xp rgba(0, 0, 0, 0.1); */
             }
             input[type="text"], [type="email"], textarea {
                 width: 90%;
